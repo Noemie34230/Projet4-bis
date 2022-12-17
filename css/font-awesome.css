@@ -25,7 +25,7 @@
 100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 @keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
 100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
-/* .fa-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}
+.fa-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}
 .fa-rotate-180{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}
 .fa-rotate-270{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}
 .fa-flip-horizontal{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";-webkit-transform:scale(-1, 1);-ms-transform:scale(-1, 1);transform:scale(-1, 1)}
@@ -114,9 +114,9 @@
 .fa-fast-forward:before{content:"\f050"}
 .fa-step-forward:before{content:"\f051"}
 .fa-eject:before{content:"\f052"}
- .fa-chevron-left:before{content:"\f053"}
-.fa-chevron-right:before{content:"\f054"} */
-/*.fa-plus-circle:before{content:"\f055"}
+.fa-chevron-left:before{content:"\f053"}
+.fa-chevron-right:before{content:"\f054"}
+.fa-plus-circle:before{content:"\f055"}
 .fa-minus-circle:before{content:"\f056"}
 .fa-times-circle:before{content:"\f057"}
 .fa-check-circle:before{content:"\f058"}
@@ -148,7 +148,7 @@
 .fa-random:before{content:"\f074"}
 .fa-comment:before{content:"\f075"}
 .fa-magnet:before{content:"\f076"}
-*/.fa-chevron-up:before{content:"\f077"}/*
+.fa-chevron-up:before{content:"\f077"}
 .fa-chevron-down:before{content:"\f078"}
 .fa-retweet:before{content:"\f079"}
 .fa-shopping-cart:before{content:"\f07a"}
@@ -179,10 +179,10 @@
 .fa-phone:before{content:"\f095"}
 .fa-square-o:before{content:"\f096"}
 .fa-bookmark-o:before{content:"\f097"}
-.fa-phone-square:before{content:"\f098"} */
+.fa-phone-square:before{content:"\f098"}
 .fa-twitter:before{content:"\f099"}
 .fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}
-/* .fa-github:before{content:"\f09b"}
+.fa-github:before{content:"\f09b"}
 .fa-unlock:before{content:"\f09c"}
 .fa-credit-card:before{content:"\f09d"}
 .fa-feed:before,.fa-rss:before{content:"\f09e"}
@@ -364,9 +364,9 @@
 .fa-xing-square:before{content:"\f169"}
 .fa-youtube-play:before{content:"\f16a"}
 .fa-dropbox:before{content:"\f16b"}
-.fa-stack-overflow:before{content:"\f16c"} */
+.fa-stack-overflow:before{content:"\f16c"}
 .fa-instagram:before{content:"\f16d"}
-/* .fa-flickr:before{content:"\f16e"}
+.fa-flickr:before{content:"\f16e"}
 .fa-adn:before{content:"\f170"}
 .fa-bitbucket:before{content:"\f171"}
 .fa-bitbucket-square:before{content:"\f172"}
@@ -379,9 +379,9 @@
 .fa-apple:before{content:"\f179"}
 .fa-windows:before{content:"\f17a"}
 .fa-android:before{content:"\f17b"}
-.fa-linux:before{content:"\f17c"} */
+.fa-linux:before{content:"\f17c"}
 .fa-dribbble:before{content:"\f17d"}
-/* .fa-skype:before{content:"\f17e"}
+.fa-skype:before{content:"\f17e"}
 .fa-foursquare:before{content:"\f180"}
 .fa-trello:before{content:"\f181"}
 .fa-female:before{content:"\f182"}
@@ -712,4 +712,4 @@
 .fa-wpexplorer:before{content:"\f2de"}
 .fa-meetup:before{content:"\f2e0"}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0}
-.sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto} */
+.sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}
